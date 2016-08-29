@@ -1,5 +1,5 @@
 # Modular Prosody Tagger
-This repository includes the Praat scripts for a modular prosody tagger deployed under the extended Praat  for feature annotations.
+This repository includes the Praat scripts for a modular prosody tagger deployed under the extended Praat for feature annotations.
 An online demo of the tagger is available at http://kristina.taln.upf.edu/praat_web/
 A description of the methodology of the tagger can be found in our publication (Domínguez et al.. 2016a) and the specification of Praat on the Web application using a feature vector for annotations in (Dominguez et al., 2016b)
 
@@ -7,14 +7,14 @@ A description of the methodology of the tagger can be found in our publication (
 ## Requirements
 ########################
 
-If you want to run the Prosody Tagger scripts found in this repository locally you need to previously download and execute the Extended Praat for feature annotation available in https://github.com/monikaUPF/featureAnnotationforPraat/
+If you want to run the Prosody Tagger scripts found in this repository locally you need to previously download and install the Extended Praat for feature annotation available in https://github.com/monikaUPF/featureAnnotationforPraat/
 That extension for Praat is only available for Linux platforms currently.
 
 ########################
 ## Description
 ########################
 
-A collection of 8 Praat scripts for the two possible configurations of the tagger are included in this repository. Users can access this tool online clicking on Enter Demo 2 in the main menu of Praat on the Web link mentioned above.
+A collection of 8 Praat scripts for the two possible configurations of the tagger are included in this repository. Users can access this tool online clicking on "Enter Demo 2" button in the main menu of Praat on the Web application (http://kristina.taln.upf.edu/praat_web/Modules).
   -  Word Segments: this configuration takes the following 6 modules. This pipeline performs prediction of Prosodic phrases (PPh) boundaries and prominence based on word segmentas and acoustic information.
       -  "mod01.praat" Module 1: Intensity Peak Detection
       -  "mod02.praat" Module 2: Intensity Valley Detection
