@@ -4,6 +4,13 @@ An online demo of the tagger is available at http://kristina.taln.upf.edu/praat_
 A description of the methodology of the tagger can be found in our publication (Domínguez et al.. 2016a) and the specification of Praat on the Web application using a feature vector for annotations in (Dominguez et al., 2016b)
 
 ########################
+## Requirements
+########################
+
+If you want to run the Prosody Tagger scripts found in this repository locally you need to previously download and execute the Extended Praat for feature annotation available in https://github.com/monikaUPF/featureAnnotationforPraat/
+That extension for Praat is only available for Linux platforms currently.
+
+########################
 ## Description
 ########################
 
