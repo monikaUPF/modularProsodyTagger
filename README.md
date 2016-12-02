@@ -1,6 +1,6 @@
 # Modular Prosody Tagger
 This repository includes the Praat scripts for a modular prosody tagger deployed under the extended Praat for feature annotations.
-An online demo of the tagger is available at http://kristina.taln.upf.edu/praat_web/
+An online demo of the tagger is available at http://kristina.taln.upf.edu/praatweb/
 A description of the methodology of the tagger can be found in our publication (Domínguez et al.. 2016a) and the specification of Praat on the Web application using a feature vector for annotations in (Dominguez et al., 2016b)
 
 ########################
@@ -35,5 +35,5 @@ A collection of 8 Praat scripts for the two possible configurations of the tagge
 
 If you use this software or modify the code please cite the following publications:
 
-  - Domínguez, M., M. Farrús and L. Wanner (2016a). An Automatic Prosody Tagger for Spontaneous Speech. Under submission
-  - Domínguez, M., I. Latorre, M. Farrús, J. Codina and L. Wanner (2016b). Praat on the Web: An Upgrade of Praat for Semi-Automatic Speech Annotation. Under submission
+  - Domínguez, M., M. Farrús and L. Wanner (2016a). An Automatic Prosody Tagger for Spontaneous Speech.  In Proceedings of the 25th International Conference on Computational Linguistics, Osaka, Japan.
+  - Domínguez, M., I. Latorre, M. Farrús, J. Codina and L. Wanner (2016b). Praat on the Web: An Upgrade of Praat for Semi-Automatic Speech Annotation.  In Proceedings of the 25th International Conference on Computational Linguistics, Osaka, Japan.
